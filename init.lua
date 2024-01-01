@@ -3,7 +3,7 @@
 =====================================================================
 ==================== READ THIS BEFORE CONTINUING ====================
 =====================================================================
-
+-- FANE
 Kickstart.nvim is *not* a distribution.
 
 Kickstart.nvim is a template for your own configuration.
